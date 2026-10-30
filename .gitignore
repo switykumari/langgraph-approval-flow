@@ -1,0 +1,5 @@
+.env
+checkpoints.db
+sent_replies.txt
+__pycache__/
+venv/
